@@ -1,0 +1,6 @@
+# Ignore all hidden files/dirs
+.*
+
+# Hidden files except list
+!.gitignore
+!.zshrc
