@@ -9,6 +9,7 @@ Those files are based in an Arch-based distro but is probably replicable in almo
 ### Arch Linux official packages
 - [zsh](https://archlinux.org/packages/extra/x86_64/zsh/)
 - [zsh-autosuggestions](https://archlinux.org/packages/extra/any/zsh-autosuggestions/)
+- [zsh-syntax-highlighting](https://archlinux.org/packages/extra/any/zsh-syntax-highlighting/)
 
 ### AUR packages
 
