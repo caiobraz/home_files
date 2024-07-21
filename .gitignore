@@ -1,3 +1,6 @@
+# Ignore github dir 
+github
+
 # Ignore all hidden files/dirs
 .*
 
